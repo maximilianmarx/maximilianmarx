@@ -22,9 +22,14 @@ Here are some ideas to get you started:
 - Test
 
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning
+- Penetration testing Active Directory environments
+- Working through the Cyber Security pass offered by INE (https://ine.com/pages/cybersecurity)
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate on
+- Anything related to IT Security (Hacking, Penetration Testing, et cetera)
+- Cloud, Web Development, Artificial Intelligence
+- Customer Experience and Innovation
 
-📫 You can contact me via:
+📫 You can contact me via
 
