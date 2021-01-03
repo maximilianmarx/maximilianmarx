@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 -->
 
 🚀 Expertise/Interests
-- Test
+- Penetration Testing (OSCP)
+- Active Directory Attacks
+- Web App Penetration Testing
+- Web Development
+- User and Customer Experience (UX/CX)
 
 
 🌱 I’m currently learning
