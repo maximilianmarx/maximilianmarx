@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Cloud, Web Development, Artificial Intelligence
 - Customer Experience and Innovation
 
-⚡ Fun fact: Not only do I digitally love offensive attacks and defensive mechanisms, I do them in real life through Kickboxing and Krav Maga, too!
+⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
 
 📫 You can contact me via
 - LinkedIn 
