@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - Customer Experience and Innovation
 
 📫 You can contact me via
-
+- LinkedIn 
