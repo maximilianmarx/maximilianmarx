@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 - Cloud, Web Development, Artificial Intelligence
 - Customer Experience and Innovation
 
+🤝 Social Engagement
+- Rotaract Germany
+
 ⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
 
 📫 You can contact me via
-- LinkedIn 
+- LinkedIn: https://www.linkedin.com/in/maximilian-marx-121326183
+- E-Mail: contact@maximilian-marx.me
