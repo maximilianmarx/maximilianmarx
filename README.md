@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
 
 📫 You can contact me via
-- LinkedIn: https://www.linkedin.com/in/maximilian-marx-121326183
+- LinkedIn: https://www.linkedin.com/in/maximilian-marx
 - E-Mail: contact@maximilian-marx.me
