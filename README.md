@@ -3,20 +3,7 @@
 I'm Max, currently working as a Product Manager while studying Software Engineering (B.Sc.). I was always curious about how digital systems work behind the scenes. That's why I started diving deeper into IT Security during my apprenticeship. I started to gain practical experience with Python, C, Assembly & Penetration Testing.
 During the day I'm implementing Change Requests for our CRM software. At night I heavily enjoy Red Teaming.
 
-<!--
-**maximilianmarx/maximilianmarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 🚀 Expertise/Interests
 - Penetration Testing (OSCP)
@@ -40,12 +27,22 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
 
+---
+
 📫 You can contact me via
 - LinkedIn: https://www.linkedin.com/in/maximilian-marx
 - E-Mail: contact@maximilian-marx.me
 
+---
 
+<p align="center">
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximilianmarx&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianmarx&hide=javascript,html,scss&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/maximilianmarx/maximilianmarx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maximilianmarx&include_all_commits=true&custom_title=Max+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&theme=calm" />
+</a>
 
+<a href="https://github.com/maximilianmarx/maximilianmarx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianmarx&hide_title=false&exclude_repo=maximilianmarx.github.io&langs_count=3&layout=default&hide_border=false&theme=calm" />
+</a>
+
+</p>
