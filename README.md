@@ -43,3 +43,9 @@ Here are some ideas to get you started:
 📫 You can contact me via
 - LinkedIn: https://www.linkedin.com/in/maximilian-marx
 - E-Mail: contact@maximilian-marx.me
+
+
+
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximilianmarx&show_icons=true&theme=calm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianmarx&hide=javascript,html,scss&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
