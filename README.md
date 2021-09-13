@@ -25,7 +25,8 @@ During the day I'm implementing Change Requests for our CRM software. At night I
 🤝 Social Engagement
 - Rotaract Germany
 
-⚡ Fun fact: Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
+⚡ Fun fact
+- Not only do I love IT Security related offensive attacks and defensive mechanisms, I live and love them in real life through Kickboxing and Krav Maga, too!
 
 ---
 
