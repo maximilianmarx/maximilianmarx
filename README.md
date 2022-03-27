@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Max, currently working as a Product Manager while studying Software Engineering (B.Sc.). I was always curious about how digital systems work behind the scenes. That's why I started diving deeper into IT Security during my apprenticeship. I started to gain practical experience with Python, C, Assembly & Penetration Testing.
 During the day I'm implementing Change Requests for our CRM software. At night I heavily enjoy Red Teaming.
