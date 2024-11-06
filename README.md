@@ -32,7 +32,7 @@ During the day I'm implementing Change Requests for our CRM software. At night I
 
 📫 You can contact me via
 - LinkedIn: https://www.linkedin.com/in/maximilian-marx
-- E-Mail: contact@maximilian-marx.me
+- E-Mail: contact [at] maximilian-marx [dot] me
 
 ---
 
